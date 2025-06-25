@@ -1,0 +1,16 @@
+{
+    "type": "record",
+    "name": "Schema",
+    "namespace": "com.amazonaws.personalize.schema",
+    "fields": [
+        {
+            "name": "user_id",
+            "type": "float"
+        },
+        {
+            "name": "Gender",
+            "type": "string"
+        }
+    ],
+    "version": "1.0"
+}

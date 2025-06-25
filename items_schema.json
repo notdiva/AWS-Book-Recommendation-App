@@ -1,0 +1,32 @@
+{
+    "type": "record",
+    "name": "Schema",
+    "namespace": "com.amazonaws.personalize.schema",
+    "fields": [
+        {
+            "name": "item_id",
+            "type": "int"
+        },
+        {
+            "name": "book_title",
+            "type": "string"
+        },
+        {
+            "name": "author",
+            "type": "string"
+        },
+        {
+            "name": "average_rating",
+            "type": "float"
+        },
+        {
+            "name": "ratings_count",
+            "type": "int"
+        },
+        {
+            "name": "publish_year",
+            "type": "int"
+        }
+    ],
+    "version": "1.0"
+}
