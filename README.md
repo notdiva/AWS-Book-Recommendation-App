@@ -32,6 +32,10 @@ This is a simple and elegant web app that allows users to receive personalized b
 4. Books are displayed as styled cards in the results section.
 
 ---
+### Live Demo
+![alt text](Picture5.png)
+
+---
 
 ## 📁 File Structure
 
